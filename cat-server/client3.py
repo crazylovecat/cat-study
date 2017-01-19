@@ -3,6 +3,10 @@ import errno
 import os
 import socket
 
+"""
+for test
+"""
+
 SERVER_ADDRESS = 'localhost', 8888
 REQUEST = b"""
 Get /hello HTTP/1.1
